@@ -20,7 +20,6 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'execjs'
   s.add_dependency 'rails', '>= 3.1'
-  s.add_dependency 'react-source'
 
   s.files = Dir[
     'lib/**/*',
